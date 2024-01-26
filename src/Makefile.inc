@@ -1,7 +1,7 @@
 # Unix configuration Makefile for Moscow ML          -*- mode: makefile -*-
 
 # Where to install stuff
-PREFIX=/home/igrant/local
+PREFIX=/usr/local
 
 # BINDIR contains true executable files, such as scripts
 # LIBDIR contains bytecode files (such as mosmlcmp and library units), and .dll/.so for dynlibs.
